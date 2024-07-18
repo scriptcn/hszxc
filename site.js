@@ -1,1 +1,1 @@
-document.write(Math.random());
+void(0);
